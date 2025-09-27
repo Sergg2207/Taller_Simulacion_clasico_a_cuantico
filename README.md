@@ -3,7 +3,7 @@
 Este repositorio contiene el notebook Taller_Simulacion_clasico_a_cuantico.ipynb, correspondiente a la materia CNYT.
 
 ## Contenido
-- `TallerClasicToQuantum_limpio.ipynb`: Notebook con los ejercicios de simulacion clasico–cuantico en Python.
+- `Taller_Simulacion_clasico_a_cuantico.ipynb`: Contiene los ejercicios de simulacion de lo clásico a lo cuántico.
 
 ## Requisitos
 Para ejecutar el notebook se necesita
